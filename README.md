@@ -1,0 +1,2 @@
+# Fake News Classifier
+This repository contains a Python script for detecting fake news using supervised learning with Natural Language Processing (NLP). It utilizes the scikit-learn library for text vectorization and classification.
